@@ -1,5 +1,6 @@
 #!/bin/bash
 whoami
-pwd
-date
-fcal
+lsblk
+touch
+cat
+ls 
